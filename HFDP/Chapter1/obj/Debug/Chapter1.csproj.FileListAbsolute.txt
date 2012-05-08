@@ -1,4 +1,0 @@
-C:\Users\Neel Mallepally\Forked\HFDP\HFDP\Chapter1\bin\Chapter1.dll
-C:\Users\Neel Mallepally\Forked\HFDP\HFDP\Chapter1\bin\Chapter1.pdb
-C:\Users\Neel Mallepally\Forked\HFDP\HFDP\Chapter1\obj\Debug\Chapter1.dll
-C:\Users\Neel Mallepally\Forked\HFDP\HFDP\Chapter1\obj\Debug\Chapter1.pdb
